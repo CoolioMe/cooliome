@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Java.
+- 💬 Ask me about anything.
+- 😄 Pronouns: he/xim
+- ⚡ Fun fact: I like watching Anime.
+
 <!--
 **CoolioMe/cooliome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
